@@ -13,6 +13,6 @@ Problems encounter:
 2. I did not have much experience in flutter to create an app that can manage the openWRT device, so i did manage to create some interface
 but failed to use wifi_scan package or any other package that enables me to communicate to the device
 
-I hope someone who have much higher experience can guide me through this project as it is important for me to learn, this is my first time psoting on gitHub, if i did not have any platform ethics, kindly give me some advice. If you want to see the codes i have provided the codes in lib, if you want the full code, pls tell me how to send you the codes.
+I hope someone who have much higher experience can guide me through this project as it is important for me to learn, this is my first time post on gitHub, if i did not have any platform ethics, kindly give me some advice. If you want to see the codes i have provided the codes in lib.
 
 Thanks.
